@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using System.Text;
 using KSP.UI;
-using KSP.UI.Dialogs;
 using KSP.UI.Screens.DebugToolbar;
 using UnityEngine;
 using UnityEngine.Events;
