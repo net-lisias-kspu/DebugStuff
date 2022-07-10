@@ -6,12 +6,12 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("DebugStuff")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Debug stuff is a simple plugin that allows you to display the transform & colliders of a part in wireframe and display the part Hierarchy in a window.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("DebugStuff")]
-[assembly: AssemblyCopyright("Copyright © Sarbian 2016")]
-[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCompany(DebugStuff.LegalMamboJambo.Company)]
+[assembly: AssemblyProduct(DebugStuff.LegalMamboJambo.Product)]
+[assembly: AssemblyCopyright(DebugStuff.LegalMamboJambo.Copyright)]
+[assembly: AssemblyTrademark(DebugStuff.LegalMamboJambo.Trademark)]
 [assembly: AssemblyCulture("")]
 
 // Setting ComVisible to false makes the types in this assembly not visible 
@@ -32,5 +32,5 @@ using System.Runtime.InteropServices;
 // You can specify all the values or you can default the Build and Revision Numbers 
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("1.7.0.0")]
-[assembly: AssemblyFileVersion("1.6.0.0")]
+[assembly: AssemblyVersion(DebugStuff.Version.Number)]
+[assembly: AssemblyFileVersion(DebugStuff.Version.Number)]
