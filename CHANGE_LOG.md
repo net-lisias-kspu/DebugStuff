@@ -1,5 +1,8 @@
 # Debug Stuff /L Unleashed :: Change Log
 
+* 2019-1022: 1.6.1 (Sarbian) for KSP 1.8.0
+	+ More GUI info by DMagic
+	+ Fix #4
 * 2019-1018: 1.6.0 (Sarbian) for KSP 1.8.0
 	+ Show whether a GameObject is active
 	+ Adds an A:True/False indicator to each game object which says whether
