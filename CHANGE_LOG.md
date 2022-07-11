@@ -1,5 +1,7 @@
 # Debug Stuff /L Unleashed :: Change Log
 
+* 2018-0313: 1.5 (Sarbian) for KSP 1.4.0
+	+ No changelog provided
 * 2016-1025: 1.4.0.0 (Sarbian) for KSP 1.3.0
 	+ No changelog provided
 * 2016-0417: 1.3 (Sarbian) for KSP 1.2.0
