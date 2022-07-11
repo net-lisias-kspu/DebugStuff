@@ -112,7 +112,7 @@ namespace DebugStuff
 
         private IEnumerator EndOfFrameDrawing()
         {
-            Debug.Log("DebugDrawer starting");
+            Log.dbg("DebugDrawer starting");
             while (true)
             {
                 yield return new WaitForEndOfFrame();
@@ -159,7 +159,7 @@ namespace DebugStuff
                 }
                 catch (Exception e)
                 {
-                    Debug.Log("EndOfFrameDrawing Exception" + e);
+                    Log.error(e, "EndOfFrameDrawing Exception");
                 }
                 finally
                 {
