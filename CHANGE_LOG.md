@@ -1,5 +1,7 @@
 # Debug Stuff /L Unleashed :: Change Log
 
+* 2018-0402: 1.5.1 (Sarbian) for KSP 1.4.1
+	+ DebugDrawer Fix the scene transition NRE breaking stuff
 * 2018-0313: 1.5 (Sarbian) for KSP 1.4.0
 	+ No changelog provided
 * 2016-1025: 1.4.0.0 (Sarbian) for KSP 1.3.0
