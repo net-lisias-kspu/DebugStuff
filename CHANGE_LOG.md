@@ -1,5 +1,8 @@
 # Debug Stuff /L Unleashed :: Change Log
 
+* 2022-1010: 1.7.0.1 (LisiasT) for KSP >= 1.4.0
+	+ Making the thing working again downto 1.4.0
+	+ Using KSPe facilities
 * 2020-0629: 1.7.0.0 (Sarbian) for KSP >= 1.8.0
 	+ Add missing method
 * 2019-1022: 1.6.1 (Sarbian) for KSP 1.8.0
